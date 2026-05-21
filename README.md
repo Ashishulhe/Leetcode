@@ -7,6 +7,7 @@ Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashishulhe/Leetcode/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/Ashishulhe/Leetcode/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ Leetcode
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/Ashishulhe/Leetcode/tree/master/0343-integer-break) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Ashishulhe/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
