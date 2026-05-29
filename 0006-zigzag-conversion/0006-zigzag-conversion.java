@@ -3,8 +3,23 @@ class Solution {
         if(numRows==1)
          return s;
         //make 2d array
+        int total=s.length();
+        //in one cycle of n-1 we can fill(n-1)*2 element that is 2n-2 element
+        int one_cycle=2*numRows-2;
+        int col= (total * (numRows-1)  )/one_cycle ;
+        int rem= total % one_cycle;
+        if(rem > 0)
+        {
+            col = col + 1;
 
-        int col=s.length();
+            if(rem > numRows)
+            {
+                col = col + (rem - numRows);
+            }
+        }
+
+
+        
         int arr[][]= new int [numRows][col];
         //take two variable i and j,
         int index=0;
