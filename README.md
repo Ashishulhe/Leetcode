@@ -36,6 +36,7 @@ Leetcode
 | [0049-group-anagrams](https://github.com/Ashishulhe/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashishulhe/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashishulhe/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1592-rearrange-spaces-between-words](https://github.com/Ashishulhe/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashishulhe/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Sorting
 |  |
