@@ -9,6 +9,7 @@ Leetcode
 | [0001-two-sum](https://github.com/Ashishulhe/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Ashishulhe/Leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Ashishulhe/Leetcode/tree/master/0049-group-anagrams) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashishulhe/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ashishulhe/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashishulhe/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
@@ -79,4 +80,8 @@ Leetcode
 | [0577-employee-bonus](https://github.com/Ashishulhe/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Ashishulhe/Leetcode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashishulhe/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashishulhe/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
