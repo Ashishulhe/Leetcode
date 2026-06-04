@@ -21,6 +21,7 @@ Leetcode
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Ashishulhe/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0343-integer-break](https://github.com/Ashishulhe/Leetcode/tree/master/0343-integer-break) |
 ## Dynamic Programming
 |  |
