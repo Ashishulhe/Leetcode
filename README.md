@@ -12,6 +12,7 @@ Leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashishulhe/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ashishulhe/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashishulhe/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishulhe/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Leetcode
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Ashishulhe/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0343-integer-break](https://github.com/Ashishulhe/Leetcode/tree/master/0343-integer-break) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishulhe/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +87,8 @@ Leetcode
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashishulhe/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishulhe/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
