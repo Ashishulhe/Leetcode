@@ -11,6 +11,7 @@ Leetcode
 | [0049-group-anagrams](https://github.com/Ashishulhe/Leetcode/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashishulhe/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ashishulhe/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1480-running-sum-of-1d-array](https://github.com/Ashishulhe/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashishulhe/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishulhe/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -91,4 +92,8 @@ Leetcode
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishulhe/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Ashishulhe/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
