@@ -12,6 +12,7 @@ Leetcode
 | [0053-maximum-subarray](https://github.com/Ashishulhe/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ashishulhe/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ashishulhe/Leetcode/tree/master/0057-insert-interval) |
+| [0152-maximum-product-subarray](https://github.com/Ashishulhe/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashishulhe/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ashishulhe/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashishulhe/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -33,6 +34,7 @@ Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashishulhe/Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Ashishulhe/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/Ashishulhe/Leetcode/tree/master/0343-integer-break) |
 ## Backtracking
 |  |
