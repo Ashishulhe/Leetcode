@@ -30,6 +30,7 @@ Leetcode
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Ashishulhe/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/Ashishulhe/Leetcode/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/Ashishulhe/Leetcode/tree/master/0343-integer-break) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishulhe/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -121,4 +122,12 @@ Leetcode
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ashishulhe/Leetcode/tree/master/0322-coin-change) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ashishulhe/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ashishulhe/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
