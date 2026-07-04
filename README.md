@@ -112,6 +112,7 @@ Leetcode
 | [0607-sales-person](https://github.com/Ashishulhe/Leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Ashishulhe/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Ashishulhe/Leetcode/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/Ashishulhe/Leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Ashishulhe/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashishulhe/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Binary Search
