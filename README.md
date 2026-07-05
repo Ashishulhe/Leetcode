@@ -114,6 +114,7 @@ Leetcode
 | [0619-biggest-single-number](https://github.com/Ashishulhe/Leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/Ashishulhe/Leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Ashishulhe/Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1179-reformat-department-table](https://github.com/Ashishulhe/Leetcode/tree/master/1179-reformat-department-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashishulhe/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Binary Search
 |  |
