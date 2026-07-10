@@ -140,9 +140,11 @@ Leetcode
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashishulhe/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Ashishulhe/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Ashishulhe/Leetcode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashishulhe/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Ashishulhe/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
