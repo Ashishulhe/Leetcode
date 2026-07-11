@@ -64,6 +64,7 @@ Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Ashishulhe/Leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashishulhe/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashishulhe/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Ashishulhe/Leetcode/tree/master/0443-string-compression) |
@@ -147,4 +148,5 @@ Leetcode
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashishulhe/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ashishulhe/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Ashishulhe/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
