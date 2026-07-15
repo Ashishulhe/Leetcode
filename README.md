@@ -7,6 +7,7 @@ Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashishulhe/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Ashishulhe/Leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Ashishulhe/Leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Ashishulhe/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ashishulhe/Leetcode/tree/master/0053-maximum-subarray) |
@@ -58,12 +59,14 @@ Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ashishulhe/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ashishulhe/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ashishulhe/Leetcode/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Ashishulhe/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ashishulhe/Leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Ashishulhe/Leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashishulhe/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashishulhe/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
