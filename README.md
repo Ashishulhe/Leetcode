@@ -54,6 +54,7 @@ Leetcode
 | [0151-reverse-words-in-a-string](https://github.com/Ashishulhe/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashishulhe/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Ashishulhe/Leetcode/tree/master/0443-string-compression) |
+| [0657-robot-return-to-origin](https://github.com/Ashishulhe/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1592-rearrange-spaces-between-words](https://github.com/Ashishulhe/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashishulhe/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Sorting
@@ -157,4 +158,8 @@ Leetcode
 | [0024-swap-nodes-in-pairs](https://github.com/Ashishulhe/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Ashishulhe/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ashishulhe/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Ashishulhe/Leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
