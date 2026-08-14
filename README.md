@@ -27,6 +27,7 @@ Leetcode
 | [0001-two-sum](https://github.com/Ashishulhe/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Ashishulhe/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Ashishulhe/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashishulhe/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Leetcode
 | [0657-robot-return-to-origin](https://github.com/Ashishulhe/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1592-rearrange-spaces-between-words](https://github.com/Ashishulhe/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashishulhe/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashishulhe/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -162,4 +164,8 @@ Leetcode
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ashishulhe/Leetcode/tree/master/0657-robot-return-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashishulhe/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
