@@ -34,6 +34,7 @@ Leetcode
 | [0172-factorial-trailing-zeroes](https://github.com/Ashishulhe/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Ashishulhe/Leetcode/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/Ashishulhe/Leetcode/tree/master/0343-integer-break) |
+| [1927-sum-game](https://github.com/Ashishulhe/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishulhe/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@ Leetcode
 | [0657-robot-return-to-origin](https://github.com/Ashishulhe/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1592-rearrange-spaces-between-words](https://github.com/Ashishulhe/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashishulhe/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1927-sum-game](https://github.com/Ashishulhe/Leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashishulhe/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -168,4 +170,12 @@ Leetcode
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashishulhe/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Ashishulhe/Leetcode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Ashishulhe/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
