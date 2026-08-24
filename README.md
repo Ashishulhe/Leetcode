@@ -18,6 +18,7 @@ Leetcode
 | [0322-coin-change](https://github.com/Ashishulhe/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ashishulhe/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashishulhe/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/Ashishulhe/Leetcode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashishulhe/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashishulhe/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishulhe/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -34,6 +35,7 @@ Leetcode
 | [0172-factorial-trailing-zeroes](https://github.com/Ashishulhe/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Ashishulhe/Leetcode/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/Ashishulhe/Leetcode/tree/master/0343-integer-break) |
+| [0877-stone-game](https://github.com/Ashishulhe/Leetcode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/Ashishulhe/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishulhe/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -44,6 +46,7 @@ Leetcode
 | [0322-coin-change](https://github.com/Ashishulhe/Leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Ashishulhe/Leetcode/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashishulhe/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/Ashishulhe/Leetcode/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -177,5 +180,14 @@ Leetcode
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Ashishulhe/Leetcode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/Ashishulhe/Leetcode/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ashishulhe/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ashishulhe/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
