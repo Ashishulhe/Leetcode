@@ -29,6 +29,7 @@ Leetcode
 | [0049-group-anagrams](https://github.com/Ashishulhe/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Ashishulhe/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashishulhe/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3692-majority-frequency-characters](https://github.com/Ashishulhe/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Leetcode
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashishulhe/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/Ashishulhe/Leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashishulhe/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3692-majority-frequency-characters](https://github.com/Ashishulhe/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Leetcode
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ashishulhe/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3692-majority-frequency-characters](https://github.com/Ashishulhe/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Quickselect
 |  |
 | ------- |
