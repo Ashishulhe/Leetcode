@@ -22,6 +22,7 @@ Leetcode
 | [1480-running-sum-of-1d-array](https://github.com/Ashishulhe/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashishulhe/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishulhe/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [4024-nearest-available-drone](https://github.com/Ashishulhe/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,4 +194,8 @@ Leetcode
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ashishulhe/Leetcode/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [4024-nearest-available-drone](https://github.com/Ashishulhe/Leetcode/tree/master/4024-nearest-available-drone) |
 <!---LeetCode Topics End-->
