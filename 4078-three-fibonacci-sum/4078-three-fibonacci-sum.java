@@ -1,6 +1,28 @@
 class Solution {
     public boolean threeFibonacciSum(int n) {
-        //
+
+        int a = 0;
+        int b = 1;
+        int c = 1;
+        while (true) {
+            if (a + b + c == n)
+                return true;
+            c = b + c;
+            int temp1 = b;
+            b = a + b;
+            a = temp1;
+
+            if (a + b + c > n)
+                break;
+        }
+
+        return false;
+    }
+
+}/*
+ 
+ class Solution {
+    public boolean threeFibonacciSum(int n) {
     int sum=0;
       int a=0;
       int b=1;
@@ -14,6 +36,8 @@ class Solution {
             if(a+b+c == n) return true;
             if(a+b+c > n) break;
         }
+        
         return false;
     }
-}
+ }
+ */
