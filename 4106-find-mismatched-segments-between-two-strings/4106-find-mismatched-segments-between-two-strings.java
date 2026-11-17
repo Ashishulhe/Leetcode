@@ -1,4 +1,88 @@
-class Solution 
+class Solution {
+    public List<List<String>> findMismatchedSegments(String s1, String s2) {
+
+        //make the list
+        List<List<String>> list = new ArrayList<>();
+
+        //intialization this will help us to get the  mismatched substring 
+        int start = -1;
+        int end = -1;
+
+        //convet string to char Array for fast access
+
+        char arr1[] = s1.toCharArray();
+        char arr2[] = s2.toCharArray();
+
+        //for loop
+        for(int i=0;i<s1.length();i++)
+        {
+            if (arr1[i] != arr2[i])//check if charcater mismatched
+            {
+                if (start == -1) {
+                    start = i; // update start
+                }
+                end = i; // update end
+            } else {
+                //check if there is active mismatched
+
+                if (start != -1) {
+                    //took out mismacted sequence
+
+                    String sub1 = s1.substring(start, end + 1);
+                    String sub2 = s2.substring(start, end + 1);
+
+                    //create arraylist
+
+                    List<String> list1 = new ArrayList<>();
+
+                    //add mis matched sequence
+                    list1.add(sub1);
+                    list1.add(sub2);
+
+                    // add  current list in our final list
+
+                    list.add(list1);
+
+                    // reset start and end
+
+                    start = -1;
+                    end = -1;
+                }
+            }
+        } //for end
+
+        //hanling the last mismatched element cause our looop will update start and there but not add the mismatched sequence
+
+        if (start != -1) {
+            String sub1 = s1.substring(start, end + 1);
+            String sub2 = s2.substring(start, end + 1);
+
+            //create arraylist
+
+            ArrayList<String> list1 = new ArrayList<>();
+
+            //add mis matched sequence
+            list1.add(sub1);
+            list1.add(sub2);
+
+            // add  current list in our final list
+
+            list.add(list1);
+
+            // reset start and end
+
+            start = -1;
+            end = -1;
+
+        }
+
+        return list;
+
+    }
+}
+
+/*
+  class Solution 
 {
     public List<List<String>> findMismatchedSegments(String s1, String s2)
      {
@@ -64,3 +148,4 @@ class Solution
         
     }
 }
+ */
