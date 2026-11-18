@@ -9,6 +9,7 @@ Leetcode
 | [0001-two-sum](https://github.com/Ashishulhe/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ashishulhe/Leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Ashishulhe/Leetcode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Ashishulhe/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ashishulhe/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ashishulhe/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ashishulhe/Leetcode/tree/master/0056-merge-intervals) |
@@ -34,6 +35,7 @@ Leetcode
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ashishulhe/Leetcode/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ashishulhe/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Ashishulhe/Leetcode/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/Ashishulhe/Leetcode/tree/master/0343-integer-break) |
@@ -199,4 +201,8 @@ Leetcode
 |  |
 | ------- |
 | [4024-nearest-available-drone](https://github.com/Ashishulhe/Leetcode/tree/master/4024-nearest-available-drone) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ashishulhe/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
