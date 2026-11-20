@@ -69,6 +69,7 @@ Leetcode
 | [1927-sum-game](https://github.com/Ashishulhe/Leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashishulhe/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3692-majority-frequency-characters](https://github.com/Ashishulhe/Leetcode/tree/master/3692-majority-frequency-characters) |
+| [4102-count-valid-substrings-i](https://github.com/Ashishulhe/Leetcode/tree/master/4102-count-valid-substrings-i) |
 | [4106-find-mismatched-segments-between-two-strings](https://github.com/Ashishulhe/Leetcode/tree/master/4106-find-mismatched-segments-between-two-strings) |
 ## Sorting
 |  |
@@ -201,6 +202,7 @@ Leetcode
 |  |
 | ------- |
 | [4024-nearest-available-drone](https://github.com/Ashishulhe/Leetcode/tree/master/4024-nearest-available-drone) |
+| [4102-count-valid-substrings-i](https://github.com/Ashishulhe/Leetcode/tree/master/4102-count-valid-substrings-i) |
 ## Matrix
 |  |
 | ------- |
